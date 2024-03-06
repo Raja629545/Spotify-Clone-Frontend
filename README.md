@@ -1,17 +1,15 @@
 # Spotify-Clone-Frontend
 
-
 Welcome to Spotify-Clone-Frontend! This is a frontend-only clone of the popular music streaming service Spotify, designed to replicate its user interface and experience.
 
-
-Features
+Features:
 
     User Interface: Mimics the look and feel of Spotify's UI for a familiar experience.
     Search: Users can search for songs, artists, albums, and playlists.
     Playback Simulation: Although playback isn't functional, users can simulate song selection and playback control.
     Responsive Design: A user-friendly interface optimized for various devices.
 
-Installation
+Installation:
 
 To run the Spotify Clone frontend locally, follow these steps:
 
@@ -20,7 +18,7 @@ To run the Spotify Clone frontend locally, follow these steps:
     3.Open the index.html file in your web browser.
 
 
-Usage
+Usage:
 
 Once you have the frontend running, you can interact with it as follows:
 
@@ -28,7 +26,7 @@ Once you have the frontend running, you can interact with it as follows:
     Search: Enter search queries in the search bar to find songs, artists, albums, or playlists (simulation).
     Playback Simulation: Click on a song or playlist to simulate playback. Use the playback controls to simulate pause, play, and skip functionality.
 
-Contributing
+Contributing:
 
 We welcome contributions from the community! Although this project is frontend-only, there are still opportunities to contribute, such as improving the UI/UX or adding new features. If you'd like to contribute, please follow these guidelines:
 
@@ -48,4 +46,4 @@ Linkedin : https://www.linkedin.com/in/rajesh-halder-b28a36236/
 
 You can check the live web server here
 
-#Live Site : spotify-clone-rajesh.netlify.app
+#Live Site : https://spotifyclo.netlify.app/
