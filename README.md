@@ -1,5 +1,5 @@
 # Spotify-Clone-Frontend
-# Spotify Clone
+
 
 Welcome to Spotify-Clone-Frontend! This is a frontend-only clone of the popular music streaming service Spotify, designed to replicate its user interface and experience.
 
