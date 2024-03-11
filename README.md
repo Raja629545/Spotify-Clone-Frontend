@@ -4,12 +4,14 @@ Welcome to Spotify-Clone-Frontend! This is a frontend-only clone of the popular 
 
 # Features:
 
-    User Interface: Mimics the look and feel of Spotify's UI for a familiar experience.
+    # User Interface:
+    
+    Mimics the look and feel of Spotify's UI for a familiar experience.
 
     Search: Users can search for songs, artists, albums, and playlists.
 
     Playback Simulation: Although playback isn't functional, users can simulate song selection and playback control.
-    
+
     Responsive Design: A user-friendly interface optimized for various devices.
 
 # Installation:
