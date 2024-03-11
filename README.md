@@ -19,8 +19,7 @@ To run the Spotify Clone frontend locally, follow these steps:
 
 
 Usage:
-
-Once you have the frontend running, you can interact with it as follows:
+    Once you have the frontend running, you can interact with it as follows:
 
     Navigation: Use the navigation bar to explore different sections of the app.
     Search: Enter search queries in the search bar to find songs, artists, albums, or playlists (simulation).
